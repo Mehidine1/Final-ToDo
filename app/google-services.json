@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "588985895197",
+    "project_id": "finaltodo-mehidine",
+    "storage_bucket": "finaltodo-mehidine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588985895197:android:b565dc3343a07e4078b9f4",
+        "android_client_info": {
+          "package_name": "com.example.finalapp_mehidine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588985895197-hvsii3ouru63qeupqgiu2a0ru8rfejgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABy8Kl0xvLJ1AIrnXN3R1t24XzFn93G5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588985895197-hvsii3ouru63qeupqgiu2a0ru8rfejgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588985895197:android:cbb531d0e6f6324a78b9f4",
+        "android_client_info": {
+          "package_name": "com.mehidine.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588985895197-hvsii3ouru63qeupqgiu2a0ru8rfejgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABy8Kl0xvLJ1AIrnXN3R1t24XzFn93G5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588985895197-hvsii3ouru63qeupqgiu2a0ru8rfejgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
